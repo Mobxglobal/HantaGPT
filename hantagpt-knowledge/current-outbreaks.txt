@@ -1,14 +1,39 @@
 CURRENT OUTBREAK INTELLIGENCE — MV HONDIUS HANTAVIRUS CLUSTER
 Last updated: 7 May 2026
 
-A multi-country hantavirus cluster has been linked to travel on the MV Hondius cruise ship. Public health agencies including WHO, ECDC, CDC, UKHSA, and national authorities are monitoring exposed passengers and contacts.
+A multinational hantavirus cluster investigation is ongoing following exposure linked to the Dutch cruise vessel MV Hondius, operated by Oceanwide Expeditions.
 
-As of 6 May 2026, ECDC reported seven cases in the cluster, including three deaths, one critically ill case, two symptomatic cases, and one case with unknown clinical status. WHO and media reports around 7 May 2026 described up to eight linked or suspected cases.
+The vessel departed Ushuaia, Argentina on 1 April 2026 and travelled through parts of South America and the South Atlantic before heading toward Africa and Europe. Public health agencies including the World Health Organization (WHO), ECDC, UKHSA, CDC, Dutch authorities, Singaporean authorities, and South Atlantic territorial health agencies are participating in contact tracing and monitoring operations.
 
-The outbreak is suspected to involve Andes virus, a hantavirus strain associated with Argentina and Chile. Andes virus is notable because, unlike most hantaviruses, limited person-to-person transmission has been documented, usually involving prolonged close contact.
+As of 7 May 2026:
 
-Authorities have advised some exposed passengers or contacts to self-isolate or remain under observation. Available public reporting does not provide a single reliable global count of all people currently quarantined or monitored.
+* WHO reported five confirmed hantavirus cases out of eight suspected cases connected to the outbreak.
+* Multiple fatalities have been reported, including a Dutch couple and a German national, although not all fatalities have been laboratory-confirmed as hantavirus infections.
+* Additional symptomatic individuals remain under medical observation.
 
-Known fatalities reported in connection with the cluster include three deaths: a Dutch couple and a German national. Additional passengers and contacts are being monitored internationally.
+The outbreak is suspected to involve Andes virus, a hantavirus strain found in parts of South America that is notable for limited documented person-to-person transmission under prolonged close-contact conditions.
 
-Risk to the wider public has been assessed as low by European public health authorities, but investigation and contact tracing remain ongoing.
+Passengers and crew from at least twelve nationalities were linked to the vessel. Individuals disembarked at St Helena in the South Atlantic on 24 April before travelling internationally to countries including the Netherlands, United Kingdom, United States, Singapore, Germany, Switzerland, Canada, and others.
+
+Public health agencies in multiple countries are monitoring exposed passengers, airline contacts, healthcare contacts, and close contacts. Some exposed individuals have been advised to self-isolate or remain under observation due to the hantavirus incubation period, which may extend up to six weeks.
+
+Two individuals in Singapore linked to the cruise were placed in isolation and tested for hantavirus after exposure during shared travel routes involving South Africa.
+
+Authorities in US states including Georgia and Arizona confirmed monitoring of passengers returning from the cruise, although no symptoms had been reported among those individuals at the time of reporting.
+
+The United Kingdom Health Security Agency and territorial authorities associated with St Helena and Tristan da Cunha initiated contact tracing and precautionary self-isolation guidance for potentially exposed individuals.
+
+The WHO assessed the overall public health risk as low, although investigation and monitoring activities remain ongoing.
+
+The outbreak drew significant international attention due to:
+
+* suspected Andes virus involvement
+* multinational exposure routes
+* maritime transmission concerns
+* extended incubation periods
+* rare concerns regarding possible person-to-person transmission
+
+Argentinian health authorities announced plans to test rodent populations in Ushuaia following the outbreak investigation.
+
+The MV Hondius is expected to continue toward the Canary Islands while authorities coordinate ongoing health measures, monitoring, and screening procedures.
+
