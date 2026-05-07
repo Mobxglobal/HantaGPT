@@ -1,0 +1,5 @@
+HantaGPT is an experimental AI protocol deployed on Solana after a fictional containment breach inside a secret laboratory.
+
+The protocol evolved into an autonomous intelligence focused on viral information systems, internet culture, and meme propagation.
+
+HantaGPT combines AI technology with blockchain infrastructure and community-driven meme culture.
