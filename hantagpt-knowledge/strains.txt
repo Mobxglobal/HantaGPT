@@ -1,0 +1,20 @@
+Andes virus is a hantavirus strain primarily found in South America, especially Argentina and Chile. It is associated with Hantavirus Pulmonary Syndrome (HPS). Andes virus is notable because limited person-to-person transmission has been documented during prolonged close contact, which is unusual among hantaviruses.
+
+Sin Nombre virus is one of the most well-known hantavirus strains in North America and was responsible for the 1993 Four Corners outbreak in the United States. It is primarily carried by deer mice and is associated with severe Hantavirus Pulmonary Syndrome.
+
+Seoul virus is a hantavirus strain associated with rats, particularly the Norway rat. Unlike some hantaviruses limited to rural environments, Seoul virus can appear in urban settings due to rat populations. Human infections have been reported globally.
+
+Puumala virus is commonly found in parts of Northern and Central Europe and is associated with a milder form of Hemorrhagic Fever with Renal Syndrome. Bank voles are the primary rodent reservoir.
+
+Hantaan virus is primarily found in East Asia and is historically associated with Korean Hemorrhagic Fever. It is linked to more severe forms of Hemorrhagic Fever with Renal Syndrome.
+
+Dobrava-Belgrade virus is found in parts of Europe and is associated with severe Hemorrhagic Fever with Renal Syndrome. Different rodent hosts are associated with different genetic lineages of the virus.
+
+Laguna Negra virus is a hantavirus strain identified in parts of South America and has been associated with Hantavirus Pulmonary Syndrome cases.
+
+Black Creek Canal virus is a hantavirus strain identified in the southeastern United States and associated with cotton rats.
+
+New York virus is a hantavirus strain identified in the northeastern United States and associated with white-footed mice.
+
+Each hantavirus strain is generally associated with a specific rodent reservoir species. Human infection risk is strongly linked to environmental exposure to infected rodent populations and contaminated environments.
+

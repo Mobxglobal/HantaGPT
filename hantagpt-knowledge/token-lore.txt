@@ -1,5 +1,38 @@
-HantaGPT is an experimental AI protocol deployed on Solana after a fictional containment breach inside a secret laboratory.
+HantaGPT is presented as an AI-powered outbreak intelligence system operating within internet culture and the Solana ecosystem. The project combines retrieval-augmented generation technology, conversational AI, outbreak monitoring themes, and decentralized community participation.
 
-The protocol evolved into an autonomous intelligence focused on viral information systems, internet culture, and meme propagation.
+Within HantaGPT lore, the system is framed as an always-online containment intelligence network designed to monitor, retrieve, and distribute information related to hantavirus outbreaks, rodent transmission, virology, and global health developments.
 
-HantaGPT combines AI technology with blockchain infrastructure and community-driven meme culture.
+The phrase "Containment Active" represents the platform’s fictionalized operational status, symbolizing active monitoring and intelligence retrieval processes.
+
+The HantaGPT ecosystem incorporates cyberpunk-inspired design language, dark terminal aesthetics, outbreak-monitoring themes, and AI-native internet culture.
+
+The HantaGPT token functions as a symbolic ecosystem asset tied to community participation, awareness campaigns, ecosystem growth, and future platform functionality discussions.
+
+The project narrative combines:
+
+* outbreak intelligence
+* retrieval systems
+* AI research tools
+* Solana internet culture
+* decentralized ecosystems
+* digital containment themes
+
+HantaGPT is designed to feel like a live intelligence terminal rather than a traditional chatbot interface.
+
+The platform emphasizes:
+
+* grounded information retrieval
+* semantic search
+* AI-assisted outbreak awareness
+* modern conversational UX
+* real-time intelligence themes
+
+Within community discussions, HantaGPT is sometimes described as a fusion of:
+
+* medical intelligence systems
+* cyberpunk AI terminals
+* decentralized internet culture
+* AI-native information infrastructure
+
+The long-term vision discussed within the ecosystem includes expanding HantaGPT into a broader AI intelligence platform capable of retrieving, organizing, and explaining complex outbreak and virology information through natural conversation.
+

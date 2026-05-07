@@ -1,9 +1,18 @@
-Hantavirus is a family of viruses primarily spread by rodents.
+Hantaviruses are a family of zoonotic viruses primarily carried and transmitted by rodents. Human infection typically occurs through inhalation of aerosolized virus particles originating from infected rodent urine, droppings, or saliva. Less commonly, transmission may occur through rodent bites or direct contact with contaminated materials.
 
-Humans can become infected through contact with rodent urine, droppings, or saliva.
+Different hantavirus species are associated with different disease syndromes depending on geographic region. In the Americas, hantaviruses are most commonly associated with Hantavirus Pulmonary Syndrome (HPS), a severe respiratory disease that can rapidly progress to respiratory failure. In Europe and Asia, hantaviruses are more commonly linked to Hemorrhagic Fever with Renal Syndrome (HFRS), which primarily affects the kidneys and circulatory system.
 
-Some hantaviruses can cause severe respiratory illnesses such as Hantavirus Pulmonary Syndrome (HPS).
+Common rodent carriers include deer mice, cotton rats, rice rats, and bank voles. Each hantavirus strain is often associated with a specific rodent host species. Human infections are considered relatively rare, but mortality rates can be significant in severe cases, particularly with HPS.
 
-The virus is rare but can be serious.
+Early symptoms of hantavirus infection often resemble influenza and may include fever, fatigue, muscle aches, headaches, dizziness, nausea, chills, and abdominal pain. In severe HPS cases, symptoms can progress after several days to coughing, pulmonary edema, severe shortness of breath, and respiratory distress requiring hospitalization and intensive care.
 
-Hantavirus infections have been reported in various parts of the world including North and South America, Europe, and Asia.
+The incubation period for hantavirus infection is typically between one and eight weeks following exposure to infected rodents or contaminated environments. Risk factors include cleaning enclosed spaces contaminated with rodent droppings, exposure in rural or wilderness settings, occupational exposure, farming activity, and poor ventilation in rodent-infested structures.
+
+Most hantaviruses are not believed to spread efficiently between humans. However, Andes virus in South America has demonstrated limited person-to-person transmission under certain circumstances involving prolonged close contact.
+
+There is currently no universally approved antiviral cure or vaccine for most hantavirus infections. Medical treatment primarily focuses on supportive care, oxygen therapy, respiratory support, fluid management, and intensive monitoring during severe illness.
+
+Prevention strategies focus heavily on rodent control, environmental sanitation, safe cleanup procedures, and minimizing exposure to contaminated dust or enclosed rodent-infested spaces.
+
+Hantavirus infections have been reported across North America, South America, Europe, and Asia. Public health agencies including the CDC, WHO, ECDC, and national health authorities continue monitoring outbreaks, rodent populations, and emerging strains.
+

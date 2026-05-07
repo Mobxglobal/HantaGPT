@@ -25,6 +25,31 @@ app.post('/chat', async (req, res) => {
     const { message } = req.body;
 
     console.log("User message:", message);
+if (message.toLowerCase().includes('solana price')) {
+
+try {
+
+const response = await fetch(
+  'https://api.coingecko.com/api/v3/simple/price?ids=solana&vs_currencies=usd'
+);
+
+const data = await response.json();
+
+const price = data.solana.usd;
+
+return res.json({
+  reply: `Current Solana price: $${price} USD`
+});
+
+} catch (error) {
+
+return res.json({
+  reply: 'Unable to retrieve Solana price currently.'
+});
+
+}
+}
+
 
     // Create embedding from user question
     const embeddingResponse = await openai.embeddings.create({
