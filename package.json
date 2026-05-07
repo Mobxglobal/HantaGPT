@@ -2,9 +2,9 @@
   "name": "hantagpt-knowledge",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "chat.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node chat.js"
   },
   "keywords": [],
   "author": "",
@@ -12,7 +12,9 @@
   "type": "commonjs",
   "dependencies": {
     "@supabase/supabase-js": "^2.105.3",
+    "cors": "^2.8.6",
     "dotenv": "^17.4.2",
+    "express": "^5.2.1",
     "fs": "^0.0.1-security",
     "openai": "^6.36.0",
     "path": "^0.12.7"
